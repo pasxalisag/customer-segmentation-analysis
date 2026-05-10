@@ -159,6 +159,10 @@ This project demonstrates how customer analytics can help businesses:
 
 ---
 
+The analysis is based on full-year 2025 transactional sales data.
+
+---
+
 # Author
 
 Paschalis Angelopoulos
